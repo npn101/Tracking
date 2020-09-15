@@ -1,6 +1,6 @@
 # Tracking
 1. main_III.py as application to run
-2. PNG files shown all function
+2. PNG files illustrate all function
   - Raw data function.png
   - Searching ID funtion.png
   - Geoid pick up.png
